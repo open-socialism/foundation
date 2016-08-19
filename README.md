@@ -9,4 +9,4 @@ The Open Socialism Foundation has the following goals
 * Promote Open Socialism.
 * Act as a critic for democratic capitalism and promote change.
 
-Check out some of the [the main repo](https://github.com/open-socialism/open-socialism.github.io) or [opensocialism.com](https://opensocialism.com) if you want to learn more or contribute.
+Check out the [the main repo](https://github.com/open-socialism/open-socialism.github.io) or [opensocialism.com](https://opensocialism.com) if you want to learn more or contribute.
